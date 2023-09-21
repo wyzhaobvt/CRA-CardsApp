@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRA-CardsApp/static/css/main.073c9b0a.css",
+    "main.js": "/CRA-CardsApp/static/js/main.4f08c116.js",
+    "static/js/787.96607a8d.chunk.js": "/CRA-CardsApp/static/js/787.96607a8d.chunk.js",
+    "index.html": "/CRA-CardsApp/index.html",
+    "main.073c9b0a.css.map": "/CRA-CardsApp/static/css/main.073c9b0a.css.map",
+    "main.4f08c116.js.map": "/CRA-CardsApp/static/js/main.4f08c116.js.map",
+    "787.96607a8d.chunk.js.map": "/CRA-CardsApp/static/js/787.96607a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4f08c116.js"
+  ]
+}
